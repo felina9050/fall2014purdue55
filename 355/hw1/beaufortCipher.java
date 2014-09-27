@@ -1,7 +1,4 @@
 
-
-
-
 public class beaufortCipher {
 	public static void main(String[] args){
 		
